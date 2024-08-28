@@ -1,0 +1,39 @@
+/* practice.css */
+
+body {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 1em;
+  color: #000000; /* default text color */
+  background-color: #ffffff; /* default background color */
+  margin: 0;
+  padding: 0;
+}
+
+#pagewrapper {
+  background-color: #e2e6cf;
+  margin: 10px auto;
+  Padding: 15px;
+  width: 720px;
+}
+
+header {
+background-color: #d44c25;
+color: #ffffff;
+margin-bottom: 2px;
+padding: 5px;
+text-align: center;
+}
+
+main{
+  font-size: 0.9em;
+  line-height: 1.65;
+}
+
+footer{
+  background-color: #47526d;
+  color: #ffffff;
+  font-size: 0.75em;
+  padding: 10px;
+  text-align: center;
+}
+
